@@ -14,9 +14,9 @@
 
 <h3>🛠 Technologies I'm Actively Using in Q4 2024</h3>
 <ul>
-  <li>Languages: Javascript/Typescript, Python, C#</li>
-  <li>Web: Angular, Svelte, NodeJS, .NET</li>
-  <li>AI/ML: Stable Diffusion Models, Large Language Models, PyTorch, Scikit-Learn</li>
+  <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
+  <li><b>Web</b>: Angular, Svelte, NodeJS, .NET</li>
+  <li><b>AI/ML</b>: Stable Diffusion Models, Large Language Models, PyTorch, Scikit-Learn</li>
 </ul>
 
 <h3>📝 Latest Medium Articles</h3>
