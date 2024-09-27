@@ -21,6 +21,8 @@
 
 <h3>📝 Latest Medium Articles</h3>
 <ul>
+  <li><a href="https://medium.com/@geokam/enhancing-time-series-forecasting-with-xgboost-incorporating-rolling-statistics-and-moving-c12d136ad0a9" target="_blank">Enhancing Time Series Forecasting with XGBoost: Incorporating Rolling Statistics and Moving Averages
+</a></li>
   <li><a href="https://medium.com/p/8cd72758db6d" target="_blank">How I Built an AI Writing Assistant Chrome Extension in a Few Hours Using the Latest LLaMA 3.1 Model</a></li>
   <li><a href="https://medium.com/p/7711c4e11324" target="_blank">Boost Svelte/SvelteKit Performance with Memoization Techniques</a></li>
   <li><a href="https://medium.com/p/dbf69970a90f" target="_blank">Time Series Forecasting with XGBoost and LightGBM: Predicting Energy Consumption with Lag Features</a></li>
