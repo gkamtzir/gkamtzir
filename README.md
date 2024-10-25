@@ -19,6 +19,11 @@
   <li><b>AI/ML</b>: Stable Diffusion Models (SD3, Kandinsky), Large Language Models (Llama3.1), PyTorch, Scikit-Learn</li>
 </ul>
 
+<h3>📖 Currently Studying</h3>
+<ul>
+  <li><b>Languages</b>: GO</li>
+</ul>
+
 <h3>📝 Latest Medium Articles</h3>
 <ul>
   <li><a href="https://medium.com/fromscratch-studio/efficient-data-labeling-leveraging-label-studio-gitlab-ci-and-python-in-your-pipeline-7da1113b44ae">Efficient Data Labeling: Leveraging Label Studio, GitLab CI, and Python in Your Pipeline</a></li>
