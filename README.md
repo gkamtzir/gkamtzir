@@ -24,6 +24,11 @@
   <li><b>Languages</b>: GO</li>
 </ul>
 
+<h3>🚧 Currently Building (Side Projects)</h3>
+<ul>
+  <li>Domain agnostic Web Scrapper with <b>GO</b></li>
+</ul>
+
 <h3>📝 Latest Medium Articles</h3>
 <ul>
   <li><a href="https://medium.com/fromscratch-studio/efficient-data-labeling-leveraging-label-studio-gitlab-ci-and-python-in-your-pipeline-7da1113b44ae">Efficient Data Labeling: Leveraging Label Studio, GitLab CI, and Python in Your Pipeline</a></li>
