@@ -29,6 +29,11 @@
   <li>Domain agnostic Web Scrapper with <b>GO</b></li>
 </ul>
 
+<h3>📅 Organizing</h3>
+<ul>
+  <li><a href="https://www.meetup.com/practical-ai-thessaloniki-meetup-group/">AI Meetup</a> in Thessaloniki, Greece</li>
+</ul>
+
 <h3>📝 Latest Medium Articles</h3>
 <ul>
   <li><a href="https://medium.com/fromscratch-studio/efficient-data-labeling-leveraging-label-studio-gitlab-ci-and-python-in-your-pipeline-7da1113b44ae">Efficient Data Labeling: Leveraging Label Studio, GitLab CI, and Python in Your Pipeline</a></li>
