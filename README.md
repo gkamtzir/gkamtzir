@@ -21,12 +21,12 @@
 
 <h3>📖 Currently Studying</h3>
 <ul>
-  <li><b>Languages</b>: GO</li>
+  <li><b>Angular 19 SSR</b> features</li>
 </ul>
 
 <h3>🚧 Currently Building (Side Projects)</h3>
 <ul>
-  <li>Domain agnostic Web Scrapper with <b>GO</b></li>
+  <li>Design-to-code tools aided by LLMs</li>
 </ul>
 
 <h3>📅 Organizing</h3>
