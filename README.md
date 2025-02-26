@@ -22,6 +22,7 @@
 <h3>📖 Currently Studying</h3>
 <ul>
   <li><b>Angular 19 SSR</b> features</li>
+  <li><b>FastAPI</b></li>
 </ul>
 
 <h3>🚧 Currently Building (Side Projects)</h3>
