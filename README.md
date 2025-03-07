@@ -27,7 +27,7 @@
 
 <h3>🚧 Currently Building (Side Projects)</h3>
 <ul>
-  <li>Design-to-code tools aided by LLMs</li>
+  <li><b>Design-to-code</b> tools aided by LLMs</li>
 </ul>
 
 <h3>📅 Organizing</h3>
