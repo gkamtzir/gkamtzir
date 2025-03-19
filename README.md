@@ -16,7 +16,7 @@
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
   <li><b>Web</b>: Angular, Svelte, NodeJS, .NET</li>
-  <li><b>AI/ML</b>: Stable Diffusion Models (SD3, Kandinsky), Large Language Models (Llama3.1, GPT-o4, Claude 3.5 Sonnet), PyTorch, Scikit-Learn</li>
+  <li><b>AI/ML</b>: Stable Diffusion Models (SD3, Kandinsky), Large Language Models (Llama3.1, GPT-4o, Claude 3.7), PyTorch, Scikit-Learn</li>
 </ul>
 
 <h3>📖 Currently Studying</h3>
