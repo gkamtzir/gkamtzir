@@ -16,13 +16,12 @@
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
   <li><b>Web</b>: FastAPI, Angular, Svelte, NodeJS, .NET</li>
-  <li><b>AI/ML</b>: Stable Diffusion Models (SD3, Kandinsky), Large Language Models (Llama3.1, GPT-4o, Claude 3.7), PyTorch, Scikit-Learn</li>
+  <li><b>AI/ML</b>: Stable Diffusion Models (SD3, Kandinsky), <a href="https://github.com/BoundaryML/baml">BAML</a>, Large Language Models (Llama3.1, GPT-4o, Claude 3.7), PyTorch, Scikit-Learn</li>
 </ul>
 
 <h3>📖 Currently Studying</h3>
 <ul>
-  <li><b>Angular 19 SSR</b> features</li>
-  <li><b>FastAPI</b></li>
+  <li><b><a href="https://github.com/BoundaryML/baml">BAML</a></b></li>
 </ul>
 
 <h3>🚧 Currently Building (Side Projects)</h3>
