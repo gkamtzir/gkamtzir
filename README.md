@@ -22,6 +22,7 @@
 <h3>📖 Currently Studying</h3>
 <ul>
   <li><b><a href="https://github.com/BoundaryML/baml">BAML</a></b></li>
+  <li><b>React</b></li>
 </ul>
 
 <h3>🚧 Currently Building (Side Projects)</h3>
