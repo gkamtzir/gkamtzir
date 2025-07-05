@@ -21,10 +21,10 @@
 
 <h3>📖 Currently Studying</h3>
 <ul>
-  <li><b>React, Next.js</b></li>
+  <li><b>LangChain</b></li>
 </ul>
 
-<h3>🚧 Currently Building (Side Projects)</h3>
+<h3>🚧 Currently Building</h3>
 <ul>
   <li><b>Design-to-code</b> tools aided by LLMs</li>
 </ul>
