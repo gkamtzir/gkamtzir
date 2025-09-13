@@ -16,12 +16,12 @@
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
   <li><b>Web</b>: FastAPI, Angular, Svelte, NodeJS, .NET</li>
-  <li><b>AI/ML</b>: <a href="https://github.com/BoundaryML/baml">BAML</a>, LangChain/LangGraph, Large Language Models (Gemini, GPT-4o, Claude, DeepSeek), PyTorch, Scikit-Learn, Stable Diffusion Models (SD3, Kandinsky)</li>
+  <li><b>AI/ML</b>: <a href="https://github.com/BoundaryML/baml">BAML</a>, LangChain/LangGraph, n8n, Large Language Models (Gemini, GPT-4o, Claude, DeepSeek), PyTorch, Scikit-Learn, Stable Diffusion Models (SD3, Kandinsky)</li>
 </ul>
 
 <h3>📖 Currently Studying</h3>
 <ul>
-  <li><b>LangChain/LangGraph</b></li>
+  <li><b>Dutch</b></li>
 </ul>
 
 <h3>🚧 Currently Building</h3>
