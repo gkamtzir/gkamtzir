@@ -19,14 +19,10 @@
   <li><b>AI/ML</b>: LangChain/LangGraph, n8n, <a href="https://github.com/BoundaryML/baml">BAML</a>, Large Language Models (Gemini, GPT-4o, Claude, DeepSeek), PyTorch, Scikit-Learn, Stable Diffusion Models (SD3, Kandinsky)</li>
 </ul>
 
-<h3>📖 Currently Studying</h3>
-<ul>
-  <li><b>Dutch</b></li>
-</ul>
-
 <h3>🚧 Currently Building</h3>
 <ul>
   <li><b>Design-to-code</b> tools aided by LLMs</li>
+  <li>Smart workflows with <a href="https://github.com/n8n-io/n8n">n8n</a></li>
 </ul>
 
 <h3>📅 Organizing</h3>
