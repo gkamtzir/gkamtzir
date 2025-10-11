@@ -12,7 +12,7 @@
   George Kamtziridis (AI / Software Engineer) is a software and data enthusiast who aspires to solve technically challenging problems. He studied Electrical Engineering and Computer Engineering at Aristotle University of Thessaloniki where he specialized in Blockchain technologies. Then, he did his master's degree in Artificial Intelligence at the department of Informatics at Aristotle University of Thessaloniki. He was enrolled in various enterprise projects as a software engineer covering areas such as real estate, retail planning, supply chain, manufacturing, and business intelligence. He, also, got involved in research programs as a Data Scientist/AI Engineer with published journal articles. His zeal for writing well-structured and optimized software helped many digital products to thrive. He loves to share his knowledge on his Medium profile: https://medium.com/@geokam
 </p>
 
-<h3>🛠 Technologies I'm Actively Using in Q3 2025</h3>
+<h3>🛠 Technologies I'm Actively Using in Q4 2025</h3>
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
   <li><b>Web</b>: FastAPI, .NET, Angular, Svelte, NodeJS</li>
