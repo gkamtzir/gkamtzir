@@ -22,7 +22,7 @@
 <h3>🚧 Currently Building</h3>
 <ul>
   <li><b>Design-to-code</b> tools aided by LLMs</li>
-  <li>Smart workflows with <a href="https://github.com/n8n-io/n8n">n8n</a></li>
+  <li>AI workflows</li>
 </ul>
 
 <h3>📅 Organizing</h3>
