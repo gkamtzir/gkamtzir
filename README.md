@@ -2,17 +2,18 @@
 
 <h3 align="center">
   Lead AI / Software Engineer @ 
-  <a href="https://www.linkedin.com/company/fromscratch-studio/">fromScratch</a> (GR, NL) & 
-  <a href="https://www.linkedin.com/company/noosware-bv/">Noosware</a> (NL)
+  <a href="https://www.linkedin.com/company/fromscratch-studio/">fromScratch</a> <sup>(GR, NL)</sup> & 
+  <a href="https://www.linkedin.com/company/noosware-bv/">Noosware</a> <sup>(NL)</sup>
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/company/fromscratch-studio/">
-    <img src="./fromscratch.svg" alt="fromScratch" height="28" />
+    <img src="./fromscratch.svg" alt="fromScratch" height="35" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/noosware-bv/">
     <img src="./noosware.svg" alt="Noosware" height="28" />
   </a>
+  &nbsp;&nbsp;
 </p>
 
 
