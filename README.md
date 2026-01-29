@@ -1,11 +1,20 @@
 <h1 align="center">George Kamtziridis</h1>
+
 <h3 align="center">
   Lead AI / Software Engineer @ 
-  <a href="https://www.linkedin.com/company/fromscratch-studio/ target="_blank">
-    fromScratch
-    <img src="./fs-logo.png" alt="fromScratch Logo" width="20" height="20" />
-  </a>
+  <a href="https://www.linkedin.com/company/fromscratch-studio/">fromScratch</a> (GR, NL) & 
+  <a href="https://www.linkedin.com/company/noosware-bv/">Noosware</a> (NL)
 </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/company/fromscratch-studio/">
+    <img src="./fromscratch.svg" alt="fromScratch" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/noosware-bv/">
+    <img src="./noosware.svg" alt="Noosware" height="28" />
+  </a>
+</p>
+
 
 <h3>👋🏻 Short Introduction</h3>
 <p>
