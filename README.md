@@ -25,7 +25,7 @@
 <h3>🛠 Technologies I'm Actively Using in Q1 2026</h3>
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, C#</li>
-  <li><b>Web</b>: FastAPI, .NET, Angular, Svelte, NodeJS</li>
+  <li><b>Web</b>: FastAPI, .NET, Angular, React, NodeJS</li>
   <li><b>AI/ML</b>: LangChain/LangGraph, n8n, <a href="https://github.com/BoundaryML/baml">BAML</a>, Large Language Models (Gemini, GPT-4o, Claude, DeepSeek), PyTorch, Scikit-Learn, Stable Diffusion Models (SD3, Kandinsky)</li>
 </ul>
 
