@@ -17,12 +17,12 @@
 </p>
 
 
-<h3>👋🏻 Short Introduction</h3>
+<h3>Short Introduction</h3>
 <p>
   George Kamtziridis is a Lead AI / Software Engineer at fromScratch studio and Noosware, and the organizer of the Practical AI Thessaloniki Meetup. A software and data enthusiast, he sees everything as a puzzle ready to be solved and is drawn to technically challenging problems. He studied Electrical and Computer Engineering at Aristotle University of Thessaloniki, specializing in blockchain technologies, and went on to earn a master’s degree in Artificial Intelligence from the university’s Department of Informatics. He has worked as a software engineer on enterprise projects spanning real estate, retail planning, supply chain, manufacturing, and business intelligence, and has contributed to research programs as a Data Scientist / AI Engineer, with articles published in academic journals. His passion for building clean, efficient, and scalable software has helped many digital products grow and succeed. He loves to share his knowledge on his Medium profile: https://medium.com/@geokam
 </p>
 
-<h3>🛠 Technologies I'm Actively Using in Q4 2026</h3>
+<h3>Technologies I'm Actively Using in Q4 2026</h3>
 <ul>
   <li><b>Languages</b>: Javascript/Typescript, Python, Go, C#</li>
   <li><b>Web</b>: FastAPI, .NET, Angular, React, Next.js, NodeJS</li>
@@ -30,18 +30,18 @@
   <li><b>AI/ML</b>: LangChain/LangGraph, n8n, <a href="https://github.com/BoundaryML/baml">BAML</a>, LLMs, PyTorch, Scikit-Learn, spaCy</li>
 </ul>
 
-<h3>🚧 Currently Building</h3>
+<h3>Currently Building</h3>
 <ul>
   <li><b>Design-to-code</b> tools aided by LLMs</li>
   <li>Coding Agents</li>
 </ul>
 
-<h3>📅 Organizing</h3>
+<h3>Organizing</h3>
 <ul>
   <li><a href="https://www.meetup.com/practical-ai-thessaloniki-meetup-group/">AI Meetup</a> in Thessaloniki, Greece</li>
 </ul>
 
-<h3>📝 Latest Medium Articles</h3>
+<h3>Latest Medium Articles</h3>
 <ul>
   <li><a href="https://medium.com/@geokam/tame-your-coding-agents-some-thoughts-on-ai-and-production-code-b222000faf37">Tame Your Coding Agents: Some Thoughts on AI and Production Code
 </a></li>
